@@ -1,2 +1,2 @@
 Hi, THIS IS MY FIRST FILE OF GIT. LOL
-This is on NEW_BRANCH 
+This master branch file.
