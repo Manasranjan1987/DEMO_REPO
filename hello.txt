@@ -1,2 +1,3 @@
 Hi, THIS IS MY FIRST FILE OF GIT. LOL
 This master branch file.
+Checking stash Operation
